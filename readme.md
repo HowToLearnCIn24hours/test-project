@@ -1,5 +1,4 @@
-# Demo
+# First SQL project
 
-Some description
-##subheader
-This is a test file for my learning process of git
+##description
+This is my first project where I demonstrate the knowledge of sql, particularly how to create tables
